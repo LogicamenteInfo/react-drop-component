@@ -2,9 +2,8 @@
   "name": "react-drop-component",
   "version": "1.0.0",
   "description": "A configurable React Dropzone Component",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "cd src && babel *.js -d ../dist && cp *.css ../dist",
+  "main": "src/index.js",
+  "scripts": {    
     "build-test": "webpack"
   },
   "keywords": [
