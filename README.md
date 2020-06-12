@@ -1,5 +1,8 @@
 # DropComponent
 
+[![Travis][build-badge]][build]
+[![npm package][npm-badge]][npm]
+
 This is a direct modification of [Romgrk's DropZone](https://github.com/romgrk/react-drop-zone/) for better management of the component and handling of files.
 
 #### Install
@@ -28,3 +31,9 @@ import { DropComponent } from '@logicamente.info/react-drop-component'
 ### Details
 
 The component overwrites the `onDrag/DragEnter/.../Drop` props of the render function child.
+
+[build-badge]: https://img.shields.io/travis/logicamenteinfo/react-drop-component/master.png?style=flat-square
+[build]: https://travis-ci.org/logicamenteinfo/react-drop-component
+
+[npm-badge]: https://img.shields.io/npm/v/@logicamente.info/react-drop-component.png?style=flat-square
+[npm]: https://www.npmjs.org/@logicamente.info/react-drop-component
