@@ -27,11 +27,12 @@
     "react": "^16.13.0",
     "react-dom": "^16.13.0"
   },
-  "author": "natanaelsimoes@gmail.com",
+  "author": "Logicamente Info",
+  "homepage": "https://logicamente.info",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/natanaelsimoes/react-drop-component"
+    "url": "https://github.com/LogicamenteInfo/react-drop-component"
   },
   "keywords": [
     "dropzone",
