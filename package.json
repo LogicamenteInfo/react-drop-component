@@ -1,5 +1,5 @@
 {
-  "name": "react-drop-component",
+  "name": "@logicamente.info/react-drop-component",
   "version": "1.0.4",
   "description": "A configurable React Dropzone Component",
   "main": "lib/index.js",
