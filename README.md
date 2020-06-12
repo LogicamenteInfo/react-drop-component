@@ -4,12 +4,12 @@ This is a direct modification of [Romgrk's DropZone](https://github.com/romgrk/r
 
 #### Install
 
-`npm i -S react-drop-component`
+`npm i -S @logicamente.info/react-drop-component`
 
 ## How to use
 
 ```jsx
-import { DropComponent } from 'react-drop-component'
+import { DropComponent } from '@logicamente.info/react-drop-component'
 
 <DropComponent onDrop={(file, text) => console.log(file, text)} />
 ```
